@@ -1,0 +1,36 @@
+.encabezado{
+    font-family: 'Gloock', serif;
+    text-align: center;
+    color: darkslategrey;
+    background-color:rgb(85, 169, 202);
+    margin-left: 35%;
+    margin-right: 35%;
+    font-size: 250%;
+    border-style:dotted;
+}
+
+body{
+    background-color: darkgray;
+    background-image:url(https://aulas.uav.online/pluginfile.php/7596/course/overviewfiles/rawcoverimage.jpg) ;
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-blend-mode:multiply;
+}
+
+table{ 
+    display: flex;
+    justify-content: center;
+    border-color:darkgray;
+    margin-left: 25% ;
+    margin-right: 25%;
+    border-style:dashed;
+}
+
+th{
+    color:yellow;
+    font-size: 200%;
+}
+
+td{
+    color:aqua;
+}
